@@ -26,8 +26,8 @@ nums 的每个元素都将在 [-9999, 9999]之间。
 
 ### error3: forget to initialize the left and right values
 
-我的代码：
 ```
+/* Final Submitted Code */
 class Solution {
 public:
     int search(vector<int>& nums, int target) {
