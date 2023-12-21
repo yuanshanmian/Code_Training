@@ -20,9 +20,11 @@ https://leetcode.cn/problems/binary-search/
 n 将在 [1, 10000]之间。
 nums 的每个元素都将在 [-9999, 9999]之间。
 
-error1: have no return values
-error2: update left index should add 1, same reason, right should deduce 1
-error3: forget to initialize the left and right values
+###error1: have no return values
+
+###error2: update left index should add 1, same reason, right should deduce 1
+
+###error3: forget to initialize the left and right values
 
 我的代码：
 ```
